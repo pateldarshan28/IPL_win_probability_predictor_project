@@ -1,5 +1,25 @@
 # IPL_win_probability_predictor_project
-In this project I develop the model which predict which team will win the IPL match on some features. 
+In this project I develop the model which predict which team will win the IPL match on some features. Here are the 17 features on which i make a project.
+
+features:-
+
+1. ID                 Id of player  
+2. Season             IPL season 2017  
+3. city               City ipl played
+4. date               On which date which team play    
+5. team1              Team 1
+6. team2              Team 2   
+7. toss_winner        Who win Toss
+8. toss_decision      After win toss what team selectd   
+9. result             Result  
+10. winner            who win match
+11. win_by_runs       win by runs a team      
+12. win_by_wickets    win by wickets    
+13. player_of_match   Man of the match       
+14. venue             Where it play
+15. umpire1           who is 1st umpire
+16. umpire2           who is 2st umpire
+17. umpire3           who is 3st umpire
 
 Libraries Used in project :-
 
